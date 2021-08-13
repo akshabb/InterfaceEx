@@ -35,9 +35,6 @@ public class IndiaTrafficRules implements CentralTrafficRules{
 		System.out.println("Apply Breaks when light turns red");
 	}
 	
-	public void Newfun()
-	{
-		System.out.println("New Function editef from github");
-	}
+	
 
 }
