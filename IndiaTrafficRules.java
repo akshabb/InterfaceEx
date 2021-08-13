@@ -37,7 +37,7 @@ public class IndiaTrafficRules implements CentralTrafficRules{
 	
 	public void Newfun()
 	{
-		System.out.println("New Function");
+		System.out.println("New Function editef from github");
 	}
 
 }
